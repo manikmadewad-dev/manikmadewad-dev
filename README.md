@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **manikmadewad@gmail.com** For Collaboration/Project or Any
 - ⚡ **Fun fact :** I enjoy building real-world projects and learning new technologies
 - 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kiran.madewad.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kiran___0025) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manik-madewad-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KiranMadew99873) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ApnaBharat-KM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manikmadewad@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kiran.madewad.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kiran___0025) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manik-madewad-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Manikmadewad) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ApnaBharat-KM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manikmadewad@gmail.com) 
 
 
 # 💻 Tech Stack:
